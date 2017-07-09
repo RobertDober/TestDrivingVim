@@ -18,7 +18,7 @@ endfunction
 
 In order to run the tests we create a tiny shell script in this repro [vimtest](vimtest)  
 
-and by running it we shall see output like [that](assets/images/first_test_run.png)  
+and by running it we shall see output like ![that](assets/images/first_test_run.png)  
 
 # Copyright and LICENSE
 
